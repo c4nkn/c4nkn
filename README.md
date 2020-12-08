@@ -1,1 +1,1 @@
-![alt text](https://github.com/c4nkn/c4nkn/blob/master/bannergithub.png?raw=true)
+![alt text](https://github.com/c4nkn/c4nkn/blob/master/readme-image.png?raw=true)
